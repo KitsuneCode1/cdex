@@ -13,9 +13,9 @@
 }
 .container .note-text {
     text-align: center;
-    margin-top: 2.7rem;
+    margin-top: 2.5rem;
     color: #111;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 .package-plan {
     width: 100%;
@@ -24,7 +24,6 @@
     grid-auto-rows: 350px;
     gap: 15px;
     padding: 65px 10px;
-    border-top: 1px solid #f85307;
     border-bottom: 1px solid #f85307;
 }
 .package-plan-2 {
@@ -34,7 +33,6 @@
     grid-auto-rows: 350px;
     gap: 15px;
     padding: 65px 10px;
-    border-top: 1px solid #f85307;
     border-bottom: 1px solid #f85307;
 }
 .package-details {
